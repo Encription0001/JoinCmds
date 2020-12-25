@@ -1,0 +1,5 @@
+name: joinCmds
+version: 0.1.1
+author: Encription
+main: me.encription.customCmds.Main
+descriptiom: (Plugin created for CliffMC network) A plugin that allows you to have custom join messages, made by Encription - discord is encription#1791
